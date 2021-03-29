@@ -1,2 +1,1 @@
 # PracticeProblems
-Daily Practice Problems
